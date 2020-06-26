@@ -2,12 +2,12 @@
 
 ## Typewriter Print
 
-![](Preview/Print.png)
+![](preview/Print.png)
 
 ## Typewriter Print BW
 
-![](Preview/PrintBW.png)
+![](preview/PrintBW.png)
 
 ## Typewriter Notebook
 
-![](Preview/Notebook.png)
+![](preview/Notebook.png)
