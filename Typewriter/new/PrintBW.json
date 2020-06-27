@@ -67,6 +67,8 @@
         "peekViewEditor.matchHighlightBackground": "#fff59d",
         "peekViewEditorGutter.background": "#ffffff",
         "peekViewResult.selectionBackground": "#ffecb3",
+        "phpParameterHint.hintBackground": "#fff59d",
+        "phpParameterHint.hintForeground": "#424242",
         "progressBar.background": "#ffffff",
         "quickInput.background": "#f7f7f7",
         "sideBar.background": "#ffffff",
