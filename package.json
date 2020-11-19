@@ -22,32 +22,17 @@
             {
                 "label": "Typewriter Print-BW (new)",
                 "uiTheme": "vs",
-                "path": "./Typewriter/new/PrintBW.json"
-            },
-            {
-                "label": "Typewriter Print-BW (old)",
-                "uiTheme": "vs",
-                "path": "./Typewriter/old/PrintBW.json"
+                "path": "./Typewriter/PrintBW.json"
             },
             {
                 "label": "I-Light (new)",
                 "uiTheme": "vs",
-                "path": "./i-theme/new/i-light.json"
-            },
-            {
-                "label": "I-Light (old)",
-                "uiTheme": "vs",
-                "path": "./i-theme/old/i-light.json"
+                "path": "./i-theme/i-light.json"
             },
             {
                 "label": "G-Dark Hint-Of-Red (new)",
                 "uiTheme": "vs",
-                "path": "./g-dark/new/hint-of-red.json"
-            },
-            {
-                "label": "G-Dark Hint-Of-Red (old)",
-                "uiTheme": "vs",
-                "path": "./g-dark/old/hint-of-red.json"
+                "path": "./g-dark/hint-of-red.json"
             }
         ]
     }

@@ -5,3 +5,7 @@ Minimalist theme for [Visual Studio Code](https://code.visualstudio.com) with su
 ### i Light
 
 <p align="center"><img src="https://i.imgur.com/DIfOY3j.png" alt="i Light screenshot"></p>
+
+## New
+
+Alice Blue [G-dark Theme for Vscode](https://github.com/stoneC0der/g-dark-theme)

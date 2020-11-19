@@ -181,7 +181,7 @@
                 "entity.name.tag.css"
             ],
             "settings": {
-                "fontStyle": "bold underline",
+                "fontStyle": "bold",
                 "foreground": "#000000"
             }
         },
@@ -373,7 +373,8 @@
             "scope": [
                 "entity.name.section",
                 "keyword.other.important",
-                "markup.bold"
+                "markup.bold",
+                "entity.other.attribute-name.html"
             ],
             "settings": {
                 "fontStyle": "bold"
